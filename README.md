@@ -1,2 +1,3 @@
 # coal
-fossil fuel
+
+dig fossil fuel
